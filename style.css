@@ -1,0 +1,78 @@
+   body{
+    background-image: url(./code-wallpaper-4.png.crdownload);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: top center;
+    font-weight: 1000;
+    
+    
+   
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-size: larger;
+   }
+
+
+       h1{
+        display:flex
+        justify-content: center;
+       align-items: center;
+       font-size: 5rem;
+       
+       
+
+     
+       
+       
+    
+        transform: translate(35%, 30%);
+        
+       }
+    
+       .logo{
+        width: 80px;
+       
+         height: 80px;
+         transform: translate(10%, 15%);
+    
+       }
+    
+    
+    
+       #Direita{
+        
+        width: 1px;
+        height: 1px;
+        
+        
+    
+        transform: translate(1000%, 20%);
+       }
+
+       .right{
+        width: 150px;
+         height: 150px;
+      
+        
+         transform: translate(550%, 30%);
+         
+       }
+
+       #Esquerda {
+
+        width: 1px;
+        height: 1px;
+        
+    
+        transform: translate(500%, 20%);
+
+
+       }
+    
+       .left{
+        width: 150px;
+         height: 150px;
+        
+         transform: translate(100%, 30%);
+         
+       }
